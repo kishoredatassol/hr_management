@@ -1,4 +1,4 @@
-# employee_management
+# human_resources_management
 Application to manage Employee Information. HR application to store all the employee information in a single place. 
 This includes different modules like Employee Personal Information, Immigration information, Timsheet information, Payroll information etc.,
 
